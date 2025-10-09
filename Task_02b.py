@@ -22,8 +22,12 @@ def main():
     x="Task2b"
     #===============================
     # Write your code here
-    
-
+    Text = "marco!" 
+    print(Text.lower())
+if 'marco':
+    print("Polo!")  
+if 'mArcO':
+    print("Polo!")
     # End of your code here
     #===============================
 

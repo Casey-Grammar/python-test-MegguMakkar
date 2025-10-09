@@ -29,7 +29,9 @@ def main():
   x="Task2a"
   #===============================
   # Write your code here
-    
+  Text = "Marco!" 
+  if 'Marco':
+   print("Polo!")
 
   # End of your code here
   #===============================

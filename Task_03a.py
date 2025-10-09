@@ -20,7 +20,10 @@ def main():
     x="Task3a"
     #===============================
     # Write your code here
-    
+    input(int("Remaining charge: 3"))
+    print("Connect your charger!")
+if 'Remaining charge':
+    print("All good.")
 
     # End of your code here
     #===============================
